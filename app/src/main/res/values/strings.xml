@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="title">Hang-Man</string>
+    <string name="singleplayer">Single-Player</string>
+    <string name="multiplayer">Multi-Player</string>
+    <string name="boredButton">CLICK ME!</string>
+    <string name="bored">You Bored already Bro?</string>
+</resources>
