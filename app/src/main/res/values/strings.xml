@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="player1Name">Player 1</string>
+    <string name="player2Name">Player 2</string>
+    <string name="displayPlayer1">Enter Player 1</string>
+    <string name="displayPlayer2Name">Enter Player 2</string>
+    <string name="MainButtonText">Play</string>
+    <string name="gameName">Tic Tac Toe</string>
+    <string name="game_points">Points</string>
+    <string name="try_again">Try again ?</string>
+    <string name="numberOfRounds">Number of Rounds</string>
+    <string name="quickGame">Quick Game</string>
+    <string name="customGame">Custom Game</string>
+    <string name="reset">Reset</string>
+    <string name="redirect">End</string>
+    <string name="userTableHeading">User</string>
+    <string name="game_highscore">High Score</string>
+
+</resources>
